@@ -1,6 +1,6 @@
 # 🚀 Pantagram Studios
 
-> **Pantagram — Studio web expert en Drupal, API-first & architectures scalables depuis 2011.**
+**Pantagram — Studio web expert en Drupal, API-first & architectures scalables depuis 2011.**
 
 ---
 
@@ -60,4 +60,4 @@ Pantagram, c’est un **studio indépendant** qui conçoit des solutions robuste
 ## 📫 Contact
 
 🌐 [pantagram.fr](https://www.pantagram.fr)  
-💼 [LinkedIn](https://www.linkedin.com/in/loicvinet/)  
+💼 [LinkedIn](https://www.linkedin.com/in/loïc-vinet-92728478)  
