@@ -1,14 +1,12 @@
 # 🚀 Pantagram Studios
 
-![Pantagram Logo](https://www.pantagram.fr/sites/default/files/pantagram_logo.png)
-
 > **Pantagram — Studio web expert en Drupal, API-first & architectures scalables depuis 2011.**
 
 ---
 
 ## 👨‍💻 À propos
 
-Je suis **Loïc Vinet**, Architecte Web & CTO de l’agence Pantagram.  
+Je suis **Loïc V.**, Architecte Web & CTO de l’agence Pantagram.  
 Avec plus de **15 ans d’expérience**, j’accompagne mes clients dans la **réalisation, l’intégration et l’hébergement** de projets web ambitieux.  
 
 Pantagram, c’est un **studio indépendant** qui conçoit des solutions robustes et évolutives pour les médias, institutions, collectivités et entreprises innovantes.
