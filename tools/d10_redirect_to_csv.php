@@ -3,7 +3,7 @@
 use Drupal\redirect\Entity\Redirect;
 
 /**
- * Importer des redirections depuis un fichier CSV hébergé sur GitHub.
+ * Importer des redirections depuis un fichier CSV via une url (hébergement requis)
  *
  * CSV attendu (séparateur ";") :
  * -----------------------------------------------
