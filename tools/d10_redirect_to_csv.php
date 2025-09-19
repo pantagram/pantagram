@@ -19,7 +19,29 @@ use Drupal\redirect\Entity\Redirect;
  *     -> internal:/taxonomy/term/XX si c’est un alias vers un terme existant
  *     -> internal:/alias sinon
  * - Crée ou met à jour une redirection
+ *
+  * Détails des colonnes :
+ * - Colonne 1 **Destination à rediriger (A partir de)**
+ *     → L’URL source complète (sera réduite au path, ex: "ancienne-url").
+ *
+ * - Colonne 2 **Rediriger vers :**
+ *     → L’URL de destination complète.
+ *        - Si c’est un alias interne Drupal → résolu en `internal:/node/XX` ou `internal:/taxonomy/term/XX`.
+ *        - Sinon → stocké en `internal:/alias` ou laissé en URL externe absolue.
+ *
+ * - Colonne 3 **Statut**
+ *     → Code HTTP de redirection :
+ *        - `301` = permanent (recommandé)
+ *        - `302` = temporaire
+ *        - Si vide → valeur par défaut = 301
+ *
+ * Règles de gestion :
+ * - Les lignes incomplètes (source ou target vide) sont ignorées.
+ * - Si une redirection existe déjà pour la source → elle est mise à jour.
+ * - Sinon → une nouvelle redirection est créée.
+ * - Les nodes et termes sont validés avant création pour éviter les cibles orphelines.
  */
+
 
 // URL brute du CSV (GitHub raw).
 $url = '<URL A DEFINIR ICI>';
