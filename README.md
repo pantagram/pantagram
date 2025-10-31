@@ -29,7 +29,7 @@ Pantagram, c’est un **studio indépendant** qui conçoit des solutions robuste
 ### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?logo=scaleway&logoColor=white&style=for-the-badge)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
