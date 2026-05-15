@@ -32,6 +32,7 @@ Je conçois des systèmes robustes qui relient **produit**, **IA**, **API**, **a
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Dust](https://img.shields.io/badge/Dust-0F172A?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-334155?style=for-the-badge)
 ![Function Calling](https://img.shields.io/badge/Function%20Calling-0891B2?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0EA5E9?style=for-the-badge)
